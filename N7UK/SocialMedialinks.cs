@@ -79,9 +79,9 @@ namespace N7UK
 
             Init();
 
-            Report.Log(ReportLevel.Info, "Website", "Opening web site 'http://www.hearyourway.com/wps/wcm/connect/uk/n7/home' with browser 'Chrome' in normal mode.", new RecordItemIndex(0));
-            Host.Current.OpenBrowser("http://www.hearyourway.com/wps/wcm/connect/uk/n7/home", "Chrome", "", false, false, false, false, false);
-            Delay.Milliseconds(100);
+            //Report.Log(ReportLevel.Info, "Website", "Opening web site 'http://www.hearyourway.com/wps/wcm/connect/uk/n7/home' with browser 'Chrome' in normal mode.", new RecordItemIndex(0));
+            //Host.Current.OpenBrowser("http://www.hearyourway.com/wps/wcm/connect/uk/n7/home", "Chrome", "", false, false, false, false, false);
+            //Delay.Milliseconds(100);
             
             Report.Log(ReportLevel.Info, "Validation", "Validating Exists on item 'CochlearImplantSoundProcessorNucleus.UtilityNav.Adult'.", repo.CochlearImplantSoundProcessorNucleus.UtilityNav.AdultInfo, new RecordItemIndex(1));
             Validate.Exists(repo.CochlearImplantSoundProcessorNucleus.UtilityNav.AdultInfo);
