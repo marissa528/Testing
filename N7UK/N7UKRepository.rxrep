@@ -1340,7 +1340,7 @@ F/cXNG0rDkAnVtkAAAAASUVORK5CYII=
 		id="6f7dc230-7415-4012-8b03-5c3c5a338f15"
 		isrooted="True"
 		name="CochlearEuropeMiddleEastAfricaY"
-		refimgid="b2b983bc-5bbb-4f0e-8724-cc95d0614d62"
+		refimgid="17d3d916-06fa-438b-a88d-5d3fd470d06d"
 		refpath="/form[@title~'^Cochlear\ Europe,\ Middle\ E']"
 		searchtimeout="30000ms"
 		usecache="True">
@@ -1871,6 +1871,16 @@ F/cXNG0rDkAnVtkAAAAASUVORK5CYII=
 			searchtimeout="30000ms">
 				/dom[@domain='www.linkedin.com']/?/?/header/?/?/nav/ul/?/?/a[@innertext='Sign in']
 			</item>
+			<item
+			addcaps="unknown,webelement,atag"
+			capname="atag"
+			id="cab13272-d3e1-431e-a65c-a77fefa1b90b"
+			name="LinkedIn1"
+			refimgid="e44df41a-ad50-4b40-9309-522452a8bac3"
+			refpath="/dom[@domain='www.linkedin.com']/body/header/div/a[@title='LinkedIn']"
+			searchtimeout="30000ms">
+				/dom[@domain='www.linkedin.com']/?/?/header/?/?/a[@title='LinkedIn']
+			</item>
 			<basepath>
 				/dom[@domain='www.linkedin.com']
 			</basepath>
@@ -2164,6 +2174,37 @@ H3pvJnCnfSEAAAAASUVORK5CYII=
 		usecache="True">
 			<basepath>
 				/form[@title~'^LinkedIn:\ Log\ In\ or\ Sign\ ']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAALpSURBVDhPrZJrSFNhHMZXQSAEfchpLawM+9AX
+8UNgV8/O3KzNzVu70C5qU6GgIIMiFBIC6aIRSIF3t5zRPUzTUqP71szNykvmdo7QCAxJym06tp3z
+dDyu+hB+64EH3g//3+/9v/AK/mu+qNVxtDEnfUorv0RrFV2UWu6g82Uf6DxZN5UnrfPkkqbx/P0b
+YuP/xqPOSqENuaO0+gDog/tBF2SBA0HlZoLKIbmzJEjlZZlj439jV++Me56dvu1jgazJq5EHlhN4
+VWLGo5RM0AVkRgxdyvFK3e7yM2pfry4zNL4ILLeBSgxvNgGPknBOKYi0bxpiDS/Ybi25kNpczFQe
+VbAuJYGxU+V4a+vEg0eTbOvALPtmoBtU50lM35Fj7v4uzHfv9i/07nOH+4gdvGCrrfTh1o5SKKp1
+eCHfA3t7J87eDsBwNYicy0FUdMzi0+dJzNmPIPosA9GX+5jo64wQXhFiXpBsK7Un20qQ2lCEpoME
+7vZQPJx/JQhVbRAl9X409s3ii7MGrIME85YE6yQZ9p1ExguSrMUjm9rN2GwzQ3XRiIb+AA8qF1sT
+hLYuiNM3AphwWQC3jKuUayZYt1SxJLAUPU5qP4ylmlH/bCh6zOKH4VoABdwWp2zf0eXwYma4kodZ
+VybDDEnmI0OkhBeIrKb6jdeL8btl/Y14OjKD6gdzKGvy494rL4bft8I/bOAFjIuDnaQn7BCn84KN
+VlOZyGKKiKyFrMhahLRbJ5DXVYtjT26hou8xrvacxw93ISLubH517nYfM0jWLtiJFF6Q2KbbktCs
+r1pvMU0lWkz4WyMSG/SgXyr+vBtuCSKDZBNGNatRVbWSF/CBYEVii0Gb0GocE7YZQgkcLGzV49xN
+FcO4ZCx3a5QZIqfDTrEVlHRtjPo3wma9RthyyBffpse6Rh2+vlGEODAaHhT/5OHR2O9bLutbDgs5
+wd74Fp0y6Vp+oe95VmHEJVGF7WIi5MrYDmhWxUa5CAS/AHJY5UDHeBMWAAAAAElFTkSuQmCC
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="1c0883e0-7adb-4a21-9e07-b4e9e8cd70eb"
+		isrooted="True"
+		name="CochlearLinkedInGoogleChrome"
+		refimgid="ca72664e-fcee-4178-9d51-b64a09d532f0"
+		refpath="/form[@title~'^Cochlear\ \|\ LinkedIn\ -\ Goo']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<basepath>
+				/form[@title~'^Cochlear\ \|\ LinkedIn\ -\ Goo']
 			</basepath>
 			<icon>
 				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
